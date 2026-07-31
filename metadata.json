@@ -1,0 +1,6 @@
+{
+  "name": "美学辞藻库",
+  "description": "文化艺术鉴赏辞藻素材收集与应用工具，涵盖深远意境、感官通感与学术厚度语料",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
